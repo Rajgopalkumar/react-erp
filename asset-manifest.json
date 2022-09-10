@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-erp/static/css/main.a012210c.css",
+    "main.js": "/react-erp/static/js/main.b0b0e89f.js",
+    "static/js/787.cf4046f7.chunk.js": "/react-erp/static/js/787.cf4046f7.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/react-erp/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/react-erp/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/logo.svg": "/react-erp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-erp/index.html",
+    "main.a012210c.css.map": "/react-erp/static/css/main.a012210c.css.map",
+    "main.b0b0e89f.js.map": "/react-erp/static/js/main.b0b0e89f.js.map",
+    "787.cf4046f7.chunk.js.map": "/react-erp/static/js/787.cf4046f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a012210c.css",
+    "static/js/main.b0b0e89f.js"
+  ]
+}
